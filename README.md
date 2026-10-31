@@ -2,6 +2,8 @@
 
 Premium black-and-gold responsive website for the temple at Makrampur, Bolpur, West Bengal.
 
+live : https://priyojit04.github.io/Sri-Sri-Kedarnath-Mandir/
+
 ## Pages / sections
 - Home
 - About the Temple
